@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'Local Storage/homePage.dart';
 import 'Widget Mask/widget_mask.dart';
 
 Future<void> main() async {
@@ -21,11 +20,5 @@ class MyApp extends StatelessWidget {
   }
 }
 
-// home:list
 
-// SliverAppBarExample()
-// LayoutPage()
-// HomePage() - Local Storage
-// PaginationPage() - Load More data
-// WidgetMask() - Image Mask Page
 
